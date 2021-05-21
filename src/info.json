@@ -1,9 +1,9 @@
 {
-    "name" : "fluid_permutations",
-    "version" : "0.4.1",
+    "name" : "fluid_permutations-dsr",
+    "version" : "0.4.2",
     "factorio_version" : "1.1",
-    "title" : "Fluid Permutations",
-    "author" : "spiwn",
+    "title" : "Fluid Permutations - but it works with DSR",
+    "author" : "Cerulan Lumina",
     "description" : "Rotate fluid inputs and outputs of buildings",
     "dependencies" : [
         "base",
