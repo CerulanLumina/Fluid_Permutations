@@ -35,7 +35,7 @@ data:extend({
     name = common.FP_ITEM_GROUP_NAME,
     order = "z",
     inventory_order = "z",
-    icon = "__fluid_permutations__/graphics/FluidPermutations.png",
+    icon = "__fluid_permutations-dsr__/graphics/FluidPermutations.png",
     icon_size = 128,
   }
 })
